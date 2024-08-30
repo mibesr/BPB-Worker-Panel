@@ -1,5 +1,4 @@
 name = "bpb-worker-panel"
-type = "javascript"
 pages_build_output_dir = "./dist"
 compatibility_date = "2024-08-30"
 compatibility_flags = ["nodejs_compat"]
