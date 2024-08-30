@@ -5,4 +5,4 @@ compatibility_flags = ["nodejs_compat"]
 
 [[kv_namespaces]]
 binding = "bpb"
-id = "bpb_2"
+id = "bpb_1"
