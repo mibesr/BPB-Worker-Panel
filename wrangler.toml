@@ -6,3 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 [[kv_namespaces]]
 binding = "bpb"
 id = "bpb_1"
+preview_id = "bpb_1"
