@@ -1,6 +1,7 @@
 name = "BPB-Worker-Panel"
 type = "javascript"
 compatibility_date = "2024-08-30"
+pages_build_output_dir = "./dist"
 
 [build]
 upload = { "dir" = "./", "format" = "service-worker" }
